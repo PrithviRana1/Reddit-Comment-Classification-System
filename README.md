@@ -1,2 +1,3 @@
 # Reddit-Comment-Classification-System
-System gives probability of a comment occurring in each subreddit of a set of 10
+Project uses tsne to reduce dimensions of data set
+Parameters are tuned before fitting the data with XgBoost
